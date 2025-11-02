@@ -1,7 +1,7 @@
 torch
 torchvision
 pillow
-numpy
+numpy==1.26.4
 albumentations
 tqdm
 tensorboard
