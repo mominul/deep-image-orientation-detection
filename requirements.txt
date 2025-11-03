@@ -6,4 +6,5 @@ albumentations
 tqdm
 tensorboard
 onnx
-onnxruntime
+#onnxruntime
+onnxruntime-silicon

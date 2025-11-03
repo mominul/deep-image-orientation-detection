@@ -205,3 +205,4 @@ venv/
 data/
 models/*
 runs/
+.DS_Store
